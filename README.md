@@ -4,7 +4,6 @@ Tour guide for Portland, Maine — because getting lost and confused is only fun
 
 **Key Features:**
 - 🌤️ Real-time weather updates via OpenWeatherMap API
-- 🗺️ Interactive maps powered by Google Maps API
 - 🚶 Optimized routes covering maximum attractions with minimum distance
 ---
 
@@ -29,6 +28,11 @@ Planning a tourist route in Portland means:
 - **Algorithms:** Dijkstra's shortest path algorithm
 
 ## 📸 Screenshots
+UI
+![User Intereface](./portland_travel_ss.png)
+
+Time complexity
+![Time complexity](./portland_travel_time_complexity_analysis.png)
 
 ---
 
